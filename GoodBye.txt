@@ -1,2 +1,4 @@
+# Этот файл с бинарниками
+
 print("Good bye world!")
 print("Good bye")
