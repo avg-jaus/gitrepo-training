@@ -1,3 +1,5 @@
+# Этот файл с бинарниками
+
 print("Hello world;")
 print("Hello everybody;")
 print("Hello;")
